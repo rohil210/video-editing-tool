@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+storage/
+*.mp4
+*.mov
+*.avi
+*.webm
+*.png
+*.jpg
+*.jpeg
+
